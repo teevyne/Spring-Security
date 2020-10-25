@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootAuthemticationJwtAndMongoDbApplication {
+public class SpringBootAuthenticationJwtAndMongoDbApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootAuthemticationJwtAndMongoDbApplication.class, args);
+		SpringApplication.run(SpringBootAuthenticationJwtAndMongoDbApplication.class, args);
 	}
 
 }

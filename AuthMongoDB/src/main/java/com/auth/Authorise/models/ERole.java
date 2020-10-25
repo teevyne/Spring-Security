@@ -4,5 +4,5 @@ public enum ERole {
 
     ROLE_USER,
     ROLE_MODERATOR,
-    ROLE_
+    ROLE_ADMIN
 }

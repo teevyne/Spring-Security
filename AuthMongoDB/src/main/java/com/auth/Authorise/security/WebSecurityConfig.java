@@ -17,11 +17,6 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-//import com.bezkoder.spring.jwt.mongodb.security.jwt.AuthEntryPointJwt;
-//import com.bezkoder.spring.jwt.mongodb.security.jwt.AuthTokenFilter;
-//import com.bezkoder.spring.jwt.mongodb.security.services.UserDetailsServiceImpl;
-
-
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(
